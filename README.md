@@ -1,2 +1,2 @@
 # Photos telegraph
-Photos for the Telegraph
+Photos for the Telegraph.
